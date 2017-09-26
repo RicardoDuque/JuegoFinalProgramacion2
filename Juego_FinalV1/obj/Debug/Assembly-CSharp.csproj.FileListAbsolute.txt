@@ -1,0 +1,129 @@
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\nunit.framework.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEditor.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\nunit.framework.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\obj\Debug\Assembly-CSharp.dll
+C:\Users\ridug\Documents\Unity Projects\Juego_Final\obj\Debug\Assembly-CSharp.pdb
+F:\Juego_Final\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Juego_Final\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Juego_Final\Temp\bin\Debug\nunit.framework.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEditor.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.VR.dll
+F:\Juego_Final\Temp\bin\Debug\Mono.Cecil.dll
+F:\Juego_Final\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Juego_Final\Temp\bin\Debug\Unity.DataContract.dll
+F:\Juego_Final\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Juego_Final\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Juego_Final\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Juego_Final\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Juego_Final\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.xml
+F:\Juego_Final\Temp\bin\Debug\UnityEditor.xml
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\Juego_Final\Temp\bin\Debug\nunit.framework.xml
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\Juego_Final\Temp\bin\Debug\UnityEngine.VR.xml
+F:\Juego_Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Juego_Final\obj\Debug\Assembly-CSharp.dll
+F:\Juego_Final\obj\Debug\Assembly-CSharp.pdb
+G:\Juego_Final\Temp\bin\Debug\Assembly-CSharp.dll
+G:\Juego_Final\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\Juego_Final\Temp\bin\Debug\nunit.framework.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEditor.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.TestRunner.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.Timeline.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.UI.dll
+G:\Juego_Final\Temp\bin\Debug\Mono.Cecil.dll
+G:\Juego_Final\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\Juego_Final\Temp\bin\Debug\Unity.DataContract.dll
+G:\Juego_Final\Temp\bin\Debug\ExCSS.Unity.dll
+G:\Juego_Final\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+G:\Juego_Final\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\Juego_Final\Temp\bin\Debug\Unity.CecilTools.dll
+G:\Juego_Final\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\Juego_Final\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.xml
+G:\Juego_Final\Temp\bin\Debug\UnityEditor.xml
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.UI.xml
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.TestRunner.xml
+G:\Juego_Final\Temp\bin\Debug\nunit.framework.xml
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.Timeline.xml
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.Analytics.xml
+G:\Juego_Final\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\Juego_Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\Juego_Final\obj\Debug\Assembly-CSharp.dll
+G:\Juego_Final\obj\Debug\Assembly-CSharp.pdb
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\nunit.framework.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.xml
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEditor.xml
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\nunit.framework.xml
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\ridug\Desktop\Juego_Final\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\ridug\Desktop\Juego_Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ridug\Desktop\Juego_Final\obj\Debug\Assembly-CSharp.dll
+C:\Users\ridug\Desktop\Juego_Final\obj\Debug\Assembly-CSharp.pdb
