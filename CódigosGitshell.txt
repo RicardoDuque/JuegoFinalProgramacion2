@@ -1,5 +1,17 @@
 CÓDIGOS EN EL GITSHELL
 
+Al inicio (Directory)
+.git
+
+Si el directorio ya es Documents Github solo escribo
+ls
+
+Escojo carpeta repositorio
+cd NombreCarpetaRepositorio
+
+Para comprobar error
+git status
+
 Para sincronizar
 git pull
 
