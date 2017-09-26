@@ -1,0 +1,13 @@
+CÓDIGOS EN EL GITSHELL
+
+Para sincronizar
+git pull
+
+Para agregar
+git add *
+
+Para comentar
+git commit -m "COMENTARIO AQUI"
+
+Para subir lo agregado y comentado
+git push
